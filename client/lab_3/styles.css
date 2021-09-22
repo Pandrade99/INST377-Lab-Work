@@ -85,6 +85,10 @@
     align-self: flex-end;
     margin-bottom: 20px;
   }
+
+  .projectlink a, .githublink a {
+    text-decoration: none;
+  }
   
   .footer {
     display: flex;
@@ -102,5 +106,10 @@
     background-color: #5995DA;
     flex: initial;
     width: 300px;
+  }
+
+  .mainpage a, .databasedemo a {
+    color: white;
+    text-decoration: none;
   }
   
