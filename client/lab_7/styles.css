@@ -1,0 +1,23 @@
+.button {
+    margin-bottom: 5px;
+}
+
+.final {
+    background-color: rgb(62, 185, 185);
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 90px;
+    margin-bottom: 13px;
+}
+
+#mapid {
+    height: 400px;
+    width: 400px;
+    margin-right: 400px;
+}
+
+.div1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
